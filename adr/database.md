@@ -32,6 +32,8 @@ SQL+ for data storage to ensure relational database capabilities and robustness.
 ## Considerations
 
 - Alternatives considered included cross-platform frameworks like React Native or Flutter, but native development was chosen for better performance and user experience.
+  
+- Consideration was also given to the permissions required for the app to access device features such as gallery images, location services for delivery tracking, and notifications/alerts
 
 ## Decision
 
