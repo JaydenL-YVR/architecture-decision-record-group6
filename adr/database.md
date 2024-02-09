@@ -45,12 +45,7 @@ We agree to proceed with the following decisions:
 
 ## Other Related ADRs
 
-
-
-Format:
-
-- \[None\]\(\) - Relevance
-
+None
 
 ## References
 
