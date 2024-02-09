@@ -51,6 +51,3 @@ None
 
 ADR: https://github.com/joelparkerhenderson/architecture-decision-record?tab=readme-ov-file#how-to-start-using-adrs-with-git
 
-Format:
-
-- \[Title\]\(URL\)
