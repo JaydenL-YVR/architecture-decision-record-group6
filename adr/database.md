@@ -4,13 +4,12 @@
 
 Jayden, Honglei, Parth, Prabal
 
-Format:
-
 - August Beats
 
 
 ## Change Log
-2024-02-07
+Created: 2024-02-07
+Updated: 2024-02-08
 
 ## Context
 
