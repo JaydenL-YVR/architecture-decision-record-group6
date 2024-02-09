@@ -51,5 +51,5 @@ None
 
 ## References
 
-ADR: https://github.com/joelparkerhenderson/architecture-decision-record?tab=readme-ov-file#how-to-start-using-adrs-with-git
+ADR Template: https://github.com/joelparkerhenderson/architecture-decision-record?tab=readme-ov-file#how-to-start-using-adrs-with-git
 
