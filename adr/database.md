@@ -49,7 +49,7 @@ We agree to proceed with the following decisions:
 
 Format:
 
-- \[ADR Title\]\(URL\) - Relevance
+- \[None\]\(\) - Relevance
 
 
 ## References
